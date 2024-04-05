@@ -6,7 +6,7 @@ Implementing a simple linear regression to predict mean temperature using daily 
 
 - [Introduction](#introduction)
 - [Dataset](#dataset)
-- [Learnings](#learnings)
+- [Learning_Outcomes](#learning_outcomes)
 
 ## Introduction
 
@@ -21,7 +21,7 @@ Our aims in this notebook are
 This data set is taken from [Kaggle](https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data).
 
 
-## Learning Outcomes
+## Learning_Outcomes
 
 * Using and showcasing techniques and libraries (Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn)
 * Checking for missing data values in the dataset
